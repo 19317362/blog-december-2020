@@ -1,6 +1,10 @@
 # blog-december-2020
 Code to accompany December 2020 Blog
 
+REF
+https://cppalliance.org/richard/2020/12/22/RichardsDecemberUpdate.html
+
+
 Tested with clang-11 on linux with cmake flags:
 ```
 -DCMAKE_CXX_COMPILER="clang++" -DCMAKE_CXX_FLAGS="-stdlib=libc++ -std=c++20"
